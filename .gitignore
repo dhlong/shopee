@@ -1,0 +1,9 @@
+
+*.jpg
+*.pkl
+*.csv
+*.tmp
+*.svg
+spl1/
+spl2/
+.*/
